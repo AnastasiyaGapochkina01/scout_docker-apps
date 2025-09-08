@@ -1,9 +1,0 @@
-Flask
-Flask-SQLAlchemy
-Flask-Migrate
-Flask-Login
-Flask-WTF
-flask_pagedown
-bcrypt
-mysqlclient
-markdown
